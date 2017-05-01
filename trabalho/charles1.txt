@@ -1,0 +1,10 @@
+charles1.txt
+charles21
+charles2.txt
+charles3.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+trab1-2017.txt
